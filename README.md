@@ -7,6 +7,6 @@ A looping animated logo for the **FIRST® LEGO® League BIOGLOW** season, design
 ## Included Assets
 
 | Preview | File Name |
-| :---: | :--- |
-| ![Static Preview](Bioglow_logo_no_animation.png) | `Bioglow_logo_no_animation.png` |
-| ![GIF Preview](Bioglow_logo_GIF_Animation.gif) | `Bioglow_logo_GIF_Animation.gif` | 
+| :-: | :--- |
+| <img src="Bioglow_logo_no_animation.png" width="150" alt="Static Preview"> | `Bioglow_logo_no_animation.png` |
+| <img src="Bioglow_logo_GIF_Animation.gif" width="150" alt="GIF Preview"> | `Bioglow_logo_GIF_Animation.gif` |
